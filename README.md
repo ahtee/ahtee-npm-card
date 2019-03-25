@@ -4,17 +4,17 @@ Preview of the npm card:
 
 ![preview](preview.png)
 
-# View card
+## View card
 
 ```
 npx npmcard ahtee
 ```
 
-# Credit
+## Credit
 
 Special thank you to [@bitandbang](https://www.npmjs.com/package/bitandbang) for the package!
 
-# `npm` package location
+## [npm](https://www.npmjs.com) package location
 
 ```
 https://www.npmjs.com/package/npmcard
